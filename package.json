@@ -1,0 +1,17 @@
+{
+  "name": "redis-node-example",
+  "version": "0.0.1",
+  "description": "Examples for redis Node.js client",
+  "main": "src/basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "0penth3wind0w",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.0.1"
+  }
+}
